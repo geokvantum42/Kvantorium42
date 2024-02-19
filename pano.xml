@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" start="node12" appversion="6.1.11">
+  <panorama id="node12">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:23:44" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node12">
+      <mapcoords mapid="FloorPlan02" y="-0.109863" x_floorplan_percent="5.87583" y_floorplan_percent="8.17996" x="0.145569"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_video_youtube" url="3Z6Q-96rfGE" title="Что такое &quot;Кванториум 42&quot;?" target="" description="Детский технопарк «Кванториум» — это площадка, оснащенная высокотехнологичным оборудованием, где дети учатся по принципу проектного обучения: от теории сразу к практике. &#xa;Официальный сайт нашего технопарка - https://kvantorium42.ru/ " id="Point01" tilt="8.43" pan="-9.07"/>
+      <hotspot skinid="ht_node" url="{node7}" title="Следующая локация" target="136.6/-4.8/62.5" description="" id="Point02" tilt="2.83" pan="-295.31"/>
+      <hotspot skinid="ht_video_youtube" url="iXRSeJpWHNY" title="Немного о Кванториум 42" target="" description="" id="Point03" tilt="-1.15" pan="-65.84"/>
+      <hotspot skinid="ht_info" url="" title="Зона ожидания" target="" description="Здесь ребята, приходя на занятия, ожидают педагогов перед началом занятий." id="Point04" tilt="-5.32" pan="-246.57"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.47" tilt="-6.69" pan="173.38"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:41:41" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node1">
+      <mapcoords mapid="FloorPlan02" y="-1.27991" x_floorplan_percent="77.6053" y_floorplan_percent="95.2965" x="1.92261"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node10}" title="Выход из квантума" target="-47.9/-3.0/62.5" description="" id="Point01" tilt="-10.72" pan="-310.55"/>
+      <hotspot skinid="ht_info" url="" title="Что такое  IT квантум?" target="" description="В IT-квантуме обучающиеся будут программировать на языках С# /С++, Python. На их базе они самостоятельно смогут изучать другие языки программирования или расширять свои знания в изученных языках. Кроме того, изучаются различные сервисы для упрощения и ускорения процесса разработки – Tilda, Figma, Miro и так далее. " id="Point02" tilt="0.28" pan="-32.75"/>
+      <hotspot skinid="ht_video_youtube" url="8MUhmxegeb8" title="Что такое IT?" target="" description="" id="Point03" tilt="6.23" pan="-188.55"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.47" tilt="-13.7" pan="-137.73"/>
+      <flyin projection="4" fov="70" tilt="-6.66" pan="-141.89"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:39:49" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node2">
+      <mapcoords mapid="FloorPlan02" y="-1.06018" x_floorplan_percent="77.9379" y_floorplan_percent="78.9366" x="1.93085"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_info" url="" title="Что такое Аэроквантум?" target="" description="Этот квантум посвящен изучению малой беспилотной авиации и получению практических навыков по управлению беспилотными летательными аппаратами. &#xa;Для большинства людей квадрокоптер ― это игрушка, от которой фанатеют, как взрослые, так и дети. На практике, благодаря уникальному строению и новейшим технологиям, такое устройство можно использовать как для съемки видео с нестандартных ракурсов, так и доставки различных видов грузов и даже в военных целях. &#xa;​Современные квадрокоптеры оборудованы гибкими системами электронного управления, бортовыми компьютерами и различными датчиками, позволяющими летать в любых погодных условиях. &#xa;Чему мы научим &#xa;Уверенно управлять квадрокоптерами, понимать их возможности, а также создавать свои дроны. &#xa;Избежать страха во время полёта сложного устройства, непростого в использовании, а также сохранить дорогое оборудование. Поможем разобраться в тонкостях его работы, правильно настроить, научиться искусству пилотирования и избежать банальных ошибок. &#xa;Понимать основные части беспилотника, осваивать принципы работы и управления мультикоптера, использовать навыки проектирования на собственных аппаратах, построению 3D-моделей путем фотограмметрии и работать с различными датчиками и сенсорами беспилотных летательных аппаратов (БПЛА). " id="Point01" tilt="-1.13" pan="-161.49"/>
+      <hotspot skinid="ht_node" url="{node10}" title="Выход из квантума" target="" description="" id="Point02" tilt="-3.54" pan="-255.83"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-14.4088" pan="62.3661"/>
+      <flyin projection="4" fov="70" tilt="-19.02" pan="55.35"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:36:03" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node4">
+      <mapcoords mapid="FloorPlan02" y="-1.06018" x_floorplan_percent="68.2927" y_floorplan_percent="78.9366" x="1.69189"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_info" url="" title="" target="" description="В VR/AR-квантуме обучающиеся осваивают объемную визуализацию, работают с виртуальной (VR), дополненной (AR) и смешанной (MR) реальностью. Кванторианцы разрабатывают образовательные приложения, проектируют симуляторы будущих инженеров, проводят виртуальные туры по культурным и историческим достопримечательностям. &#xa;Чему мы научим &#xa;Освоить навыки программирования на востребованных языках (C#, JavaScript, C++),создавать анимированные низкополигональные трехмерные модели,снимать и монтировать панорамные видео. &#xa;Работать как по техническому заданию, так и предлагать собственные уникальные решения в области разработки симуляторов, игр, образовательных приложений. " id="Point01" tilt="-28.95" pan="-274.73"/>
+      <hotspot skinid="ht_video_youtube" url="b306Et3WOjk" title="Что такое виртуальная и дополненная реальность?" target="" description="" id="Point02" tilt="3.56" pan="-317.56"/>
+      <hotspot skinid="ht_node" url="{node9}" title="Выход из квантума" target="" description="" id="Point03" tilt="-15.62" pan="-57.77"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-10.0802" pan="118.447"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:17:37" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node5">
+      <mapcoords mapid="FloorPlan02" y="-0.249939" x_floorplan_percent="11.5299" y_floorplan_percent="18.6094" x="0.285645"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node16}" title="Шахматная зона" target="129.0/0.5/70.0" description="" id="Point01" tilt="0.42" pan="-255.42"/>
+      <hotspot skinid="ht_info" url="" title="Что такое Геоквантум?" target="" description="Геопространственные технологии являются основой для работы и развития целых отраслей и направлений в мире: транспорт и логистика, геологоразведка и добыча полезных ископаемых, сельское хозяйство и строительство, ЖКХ и археология, кадастр и землеустройство, градостроительство, оборона и безопасность. " id="Point02" tilt="-0.45" pan="-221.13"/>
+      <hotspot skinid="ht_info" url="" title="Свободная зона" target="" description="В этой части квантума обучающиеся собираются в начале занятий для настроя на работу. а также именно здесь генерируют идеи для своих проектов, проводят внутриквантумную защиту проектов, играют в викторины, проводят рефлексию и многое другое!" id="Point03" tilt="-24.87" pan="-333.43"/>
+      <hotspot skinid="ht_node" url="{node6}" title="Следующая локация квантума" target="105.0/-15.1/62.5" description="" id="Point04" tilt="-7.75" pan="-101.53"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-15.076" pan="104.984"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:18:48" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node6">
+      <mapcoords mapid="FloorPlan02" y="-0.258179" x_floorplan_percent="5.32151" y_floorplan_percent="19.2229" x="0.131836"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_info" url="" title="Что делаают в этой части квантума?" target="" description="В этой зоне ребята учатся многим вещам, например:&#xa;&#xa;- Создавать социально-востребованные интерактивные карты; &#xa;- Создавать виртуальные туристические маршруты; &#xa;- Создавать панорамы 360 и виртуальные экскурсии; &#xa;- Пилотировать на беспилотных летательных аппаратах, а также обрабатывать информацию, получаемую с их помощью (создавать топопланы и 3д модели местности); &#xa;- Заниматься предметным 3д моделированием объектов архитектуры. " id="Point01" tilt="-21.44" pan="-267.01"/>
+      <hotspot skinid="ht_node" url="{node16}" title="Выход из квантума" target="" description="" id="Point02" tilt="-0.3" pan="-111.16"/>
+      <hotspot skinid="ht_node" url="{node5}" title="Свободная зона" target="" description="" id="Point03" tilt="-6.83" pan="-146.69"/>
+      <hotspot skinid="ht_video_youtube" url="XF4T9kA5ibI" title="Что такое геоинформационные технологии?" target="" description="" id="Point04" tilt="-10.2" pan="-52.38"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-4.75374" pan="136.618"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:27:30" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node7">
+      <mapcoords mapid="FloorPlan02" y="-0.153809" x_floorplan_percent="18.9579" y_floorplan_percent="11.4519" x="0.469666"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node12}" title="Ресепшен" target="-44.7/0.7/70.0" description="" id="Point01" tilt="2.13" pan="-220.62"/>
+      <hotspot skinid="ht_node" url="{node11}" title="Промдизайнквантум" target="95.4/-7.9/62.5" description="" id="Point02" tilt="-2.85" pan="-240.25"/>
+      <hotspot skinid="ht_info" url="" title="Лекторий" target="" description="В лектории для наших кванторианцев и гостей технопарка проходят различные мероприятия, тематические занятия, защиты проектов и многое другое!" id="Point03" tilt="2.84" pan="-349.08"/>
+      <hotspot skinid="ht_node" url="{node8}" title="Следующая локация" target="15.2/-3.2/62.5" description="" id="Point04" tilt="-3.17" pan="-61.16"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-10.6372" pan="-15.2748"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:28:12" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node8">
+      <mapcoords mapid="FloorPlan02" y="-0.238953" x_floorplan_percent="23.7251" y_floorplan_percent="17.7914" x="0.587769"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node7}" title="Возвращение к ресепшену" target="" description="" id="Point01" tilt="-2.21" pan="-46.61"/>
+      <hotspot skinid="ht_node" url="{node16}" title="Шахматная зона и Геоквантум" target="-95.5/0.5/70.0" description="" id="Point02" tilt="-5.97" pan="-336.74"/>
+      <hotspot skinid="ht_node" url="{node9}" title="Следующая локация" target="-71.5/-2.8/62.5" description="" id="Point03" tilt="0.15" pan="-163.21"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-7.17035" pan="-84.7597"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:30:59" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node9">
+      <mapcoords mapid="FloorPlan02" y="-1.17279" x_floorplan_percent="59.867" y_floorplan_percent="87.3211" x="1.48315"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node8}" title="Возвращение в сторону ресепшена" target="-8.3/0.7/62.5" description="" id="Point01" tilt="-0.55" pan="-60.46"/>
+      <hotspot skinid="ht_node" url="{node14}" title="Хайтек цех" target="57.1/-5.2/70.0" description="" id="Point02" tilt="-3.29" pan="-75.83"/>
+      <hotspot skinid="ht_node" url="{node4}" title="VR/AR квантум" target="62.4/-14.4/62.5" description="" id="Point03" tilt="-0.05" pan="-225.8"/>
+      <hotspot skinid="ht_node" url="{node10}" title="Следующая локация" target="-45.5/-7.9/62.5" description="" id="Point04" tilt="0.42" pan="-238.85"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-7.94442" pan="-45.473"/>
+      <flyin projection="4" fov="70" tilt="1.03" pan="-47.98"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:38:43" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node10">
+      <mapcoords mapid="FloorPlan01" y="-0.258179" x_floorplan_percent="9.7561" y_floorplan_percent="19.2229" x="0.241699"/>
+      <mapcoords mapid="FloorPlan02" y="-1.18103" x_floorplan_percent="84.8115" y_floorplan_percent="87.9346" x="2.10114"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node9}" title="Следующая локация" target="-63.3/-3.9/62.5" description="" id="Point01" tilt="-0.42" pan="-47.85"/>
+      <hotspot skinid="ht_node" url="{node1}" title="IT квантум" target="152.8/-1.7/62.5" description="" id="Point02" tilt="-4.69" pan="-36.36"/>
+      <hotspot skinid="ht_node" url="{node2}" title="Аэроквантум" target="-137.7/-13.7/62.5" description="" id="Point03" tilt="-4.99" pan="-71.17"/>
+      <hotspot skinid="ht_node" url="{node13}" title="Промробоквантум" target="171.2/-1.3/70.0" description="" id="Point04" tilt="-0.54" pan="-243.58"/>
+      <hotspot skinid="ht_info" url="" title="Преподавательская" target="" description="А здесь место силы нашего кванториума - преподавательская. &#xa;Здесь находятся наши педагог-организатор, заведующая, методист, а также здесь часто собираются педагоги для обсуждения различных вопросов." id="Point05" tilt="3.1" pan="-208.04"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="62.4745" tilt="-5.75844" pan="95.1297"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:25:23" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node11">
+      <mapcoords mapid="FloorPlan02" y="-0.0714111" x_floorplan_percent="12.7494" y_floorplan_percent="5.31697" x="0.315857"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node7}" title="Выход из квантума" target="136.6/-4.8/62.5" description="" id="Point01" tilt="-2.74" pan="-282.69"/>
+      <hotspot skinid="ht_info" url="" title="Что такое Промдизайнквантум?" target="" description="На сегодняшний день промышленный дизайн – одна из самых востребованных профессий на рынке труда. Компетенции, полученные в квантуме «Промышленный дизайн» пригодятся не только в области дизайна, но и в любой другой профессии. &#xa;На занятиях ребята погрузятся в изобретательский процесс, целью которого является разработка нового, ранее не существовавшего, объекта и их модернизация; пройдут все этапы создания объекта промышленного дизайна от генерации идеи до создания прототипа и разработки программы его внедрения; получат навыки 3D-моделирования и визуализации; изучат специфику профессии промышленного дизайнера. " id="Point02" tilt="-2.44" pan="-241.1"/>
+      <hotspot skinid="ht_info" url="" title="Чему учатся ребята?" target="" description="В ходе изучения дисциплины «Промышленный дизайн» учащиеся узнают, что такое: -2D- и 3D-печать; &#xa;-дизайн-проектирование; &#xa;-прототипирование; &#xa;-скетчинг; &#xa;-колористика; &#xa;-макетирование; &#xa;-композиция; &#xa;-графический редактор векторной графики CorelDraw; &#xa;-программа для создания скетчей Autodesk Sketchbook. &#xa;  &#xa;Самостоятельно с помощью этих технологий создадут уникальные вещи, воплощая свои самые смелые идеи, фантазии в реальность. " id="Point03" tilt="-28.53" pan="-308.17"/>
+      <hotspot skinid="ht_video_youtube" url="Vl4EZfP4mEM" title="Как это – промышленный дизайнЧто такое промышленный дизайн?" target="" description="" id="Point04" tilt="-27.19" pan="-210.69"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:43:11" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node13">
+      <mapcoords mapid="FloorPlan02" y="-1.26343" x_floorplan_percent="86.5854" y_floorplan_percent="94.0695" x="2.14508"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node10}" title="Выход из квантума" target="" description="" id="Point01" tilt="-5.19" pan="-264.27"/>
+      <hotspot skinid="ht_info" url="" title="Что такое Промробоквантум?" target="" description="Обучающиеся «Промробоквантум» научатся: конструировать различные виды роботов, настраивать и устанавливать беспроводную связь между мобильным роботом и компьютером. Используя современные средства программирования, освоят передовые технологии в области электроники, мехатроники. Узнают возможности и ограничения технических устройств, предназначенных для автоматизированного поиска и обработки информации. Получат практические навыки управления и программирования роботов на различных наборах конструктора. " id="Point02" tilt="-22.71" pan="-189.63"/>
+      <hotspot skinid="ht_video_youtube" url="svJ9ore7krQ" title="Что такое промышленная робототехника?" target="" description="" id="Point03" tilt="0.97" pan="-182.08"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:32:23" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node14">
+      <mapcoords mapid="FloorPlan02" y="-1.04095" x_floorplan_percent="60.8647" y_floorplan_percent="77.5051" x="1.50787"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_info" url="" title="Что такое Хайтек цех?" target="" description="Цех хайтек — это высокотехнологическая поддержка проектных работ других квантумов. Проще говоря — кванторианская мастерская. &#xa;Обучение на данном направлении позволит учащимся окунуться в сферу производственной деятельности, что будет основой саморазвития и непрерывного обучения. Обучение на направлении &quot;Хай-тек&quot;, даст возможность ребенку получить практические навыки в работе на современном оборудовании, в создании векторной графики и построении 3D моделей. " id="Point01" tilt="-17.88" pan="-312.91"/>
+      <hotspot skinid="ht_node" url="{node15}" title="Мастерская " target="109.7/-2.7/70.0" description="" id="Point03" tilt="0.15" pan="-205.11"/>
+      <hotspot skinid="ht_node" url="{node9}" title="Выход из квантума" target="119.2/-4.1/62.5" description="" id="Point02" tilt="-4.53" pan="-160.11"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:33:48" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node15">
+      <mapcoords mapid="FloorPlan02" y="-1.06018" x_floorplan_percent="56.3193" y_floorplan_percent="78.9366" x="1.39526"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_node" url="{node14}" title="Возвращение к учебной зоне" target="" description="" id="Point01" tilt="-2.94" pan="-27.01"/>
+      <hotspot skinid="ht_node" url="{node9}" title="Выход из квантума" target="" description="" id="Point02" tilt="-2.88" pan="-37.1"/>
+      <hotspot skinid="ht_video_youtube" url="Erjq2t9OoJE" title="Что такое аддитивные технологии?" target="" description="" id="Point03" tilt="-16.59" pan="-269.8"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingroll="0" width="480" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="480" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata customnodeid="" latitude="" datetime="2024:01:18 16:20:06" heading="0" source="" comment="" tags="кванториум" title="" author="" description="" info="" longitude="" copyright="" nodeid="node16">
+      <mapcoords mapid="FloorPlan02" y="-0.252686" x_floorplan_percent="18.9579" y_floorplan_percent="18.8139" x="0.469666"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" width="180" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" height="20" textcolor="0x000000" border="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" wordwrap="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="3"/>
+      <hotspot skinid="ht_info" url="" title="" target="" description="Шахматы – древняя индийская игра, имеющая многовековую историю, одна из наиболее распространённых игр современности. Еще с древних времен шахматы считались по настоящему королевской игрой, а в настоящее время игра в шахматы доступна для всех. &#xa;Именно звесь наши кванторианцы могут поиграть в эту древнейшую игру во время перемен." id="Point01" tilt="-0.93" pan="-63.01"/>
+      <hotspot skinid="ht_node" url="{node5}" title="Геоквантум" target="118.4/-10.1/62.5" description="" id="Point02" tilt="14.61" pan="-63.82"/>
+      <hotspot skinid="ht_node" url="{node8}" title="Следующая локация" target="-8.9/-5.5/62.5" description="" id="Point03" tilt="-5.61" pan="-225.03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="90" zoomout="0" enabled="1" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomin="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" hideabout="0" lockedkeyboard="0" simulatemass="1" lockedmouse="0" invertwheel="0" speedwheel="1" sensitivity="8" invertcontrol="1" contextfullscreen="1" lockedkeyboardzoom="0" contextprojections="0" rubberband="0" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" latitude="" datetime="" heading="0" source="" comment="" tags="" title="" author="" description="" info="" longitude="" copyright="" nodeid="master"/>
+  </masternode>
+  <map width="902" bgcolor="rgba(255, 255, 255, 1)" height="489" transparent="0" title="" id="FloorPlan01" type="file" tileformat="jpg" zoomlevels="3" floorplannorth="0"/>
+  <map width="902" bgcolor="rgba(255, 255, 255, 1)" height="489" transparent="0" title="" id="FloorPlan02" type="file" tileformat="jpg" zoomlevels="3" floorplannorth="0"/>
+</tour>
